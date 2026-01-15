@@ -13,3 +13,4 @@
 | **Alt Linux** | Рабочая среда |
 
 > "Главное в Linux — не бояться слэша в конце пути!"
+<img width="681" height="771" alt="изображение" src="https://github.com/user-attachments/assets/4aef135a-7304-4003-90fa-f49c23d49e50" />
